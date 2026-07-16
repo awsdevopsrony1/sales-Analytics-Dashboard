@@ -30,7 +30,7 @@ streamlit run app.py
 
 Streamlit will open automatically at `http://localhost:8501`.
 
-## 🎥 For your LinkedIn post / demo video
+## 🎥 For your LinkedIn post 
 1. Run `streamlit run app.py`, screen-record yourself walking through the filters
    (region, category, date range) and each of the 15 sections.
 2. Upload the video to LinkedIn (or YouTube and link it) alongside your project post.
